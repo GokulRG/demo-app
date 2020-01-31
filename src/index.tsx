@@ -18,7 +18,7 @@ const cars: Car[] = [
         model: '500E',
         year: 2017,
         color: 'Orange',
-        price: 10000
+        price: 10000,
     },
     {
         id: 2,
@@ -26,7 +26,7 @@ const cars: Car[] = [
         model: 'Corolla Hatchback',
         year: 2019,
         color: 'Blue Flame',
-        price: 25000
+        price: 25000,
     }
 ];
 
